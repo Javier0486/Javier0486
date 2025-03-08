@@ -14,11 +14,13 @@ I'm a passionate QA Engineer with over **11 years of experience** in web and mob
 ### 🚀 **Featured Projects**
 Here are some of the frameworks I've built and maintained:
 
-#### [Selenium C# Framework](https://github.com/javiermunoz/SeleniumCSharp) https://img.shields.io/badge/SeleniumCSharp-blue
+#### [Selenium C# Framework](https://github.com/javiermunoz/SeleniumCSharp) 
+![Selenium C#] (https://img.shields.io/badge/SeleniumCSharp-blue)
 - A robust automation framework for end-to-end testing using Selenium and C#.
 - Features: Cross-browser testing, parallel execution, and integration with CI/CD pipelines.
 
-#### [Playwright SauceDemo Framework](https://github.com/javiermunoz/PlaywrightSauceDemo) https://img.shields.io/badge/PlaywrightTypescript-gold
+#### [Playwright SauceDemo Framework](https://github.com/javiermunoz/PlaywrightSauceDemo) 
+![Playwright TypeScript] (https://img.shields.io/badge/PlaywrightTypescript-gold)
 - A modern automation framework for testing the SauceDemo website using Playwright and TypeScript.
 - Features: Parallel test execution, integration with GitHub Actions, and detailed reporting.
 
